@@ -66,7 +66,7 @@ Soil-Classification-Dataset/
 
 The dataset is also available to be downloaded from the following sites:
 
-- **Kaggle:** Coming soon
+- **Kaggle:** [Comprehensive Soil Classification Datasets](https://www.kaggle.com/datasets/ai4a-lab/comprehensive-soil-classification-datasets)
 - **HuggingFace:** Coming soon
 
 ## Dataset Details
